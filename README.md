@@ -52,20 +52,20 @@
 </p> -->
 
 [![GitHub Metrics](https://img.shields.io/badge/-informational?&label=GitHub+Metrics&style=social)](https://metrics.lecoq.io/about/novaxmd)
-![](https://komarev.com/ghpvc/?username=novaxmd)
-<a href="https://github.com/novaxmd?tab=followers"><img src="https://img.shields.io/github/followers/psychomita?label=Followers&style=social" alt="GitHub Badge"></a>
+![](https://komarev.com/ghpvc/?username=Obedweb3)
+<a href="https://github.com/Obedweb3?tab=followers"><img src="https://img.shields.io/github/followers/psychomita?label=Followers&style=social" alt="GitHub Badge"></a>
 
 # LeetCode Statistics
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/psychomita?theme=dark&font=Pontano%20Sans&ext=heatmap)
 
-*[Contact me](bmbxmd@gmail.com) if we can discuss or work upon something!*
+*[Contact me](webobed89@gmail.com) if we can discuss or work upon something!*
 
 
 
 ## 🚀 Most Contributed Repo
 
 
-![](https://github-contributor-stats.vercel.app/api?username=novaxmd&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Obedweb3&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 
