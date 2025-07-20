@@ -19,9 +19,9 @@
 
 
 ## Connect with me
-[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://facebook.com/bmbxmd)
-[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=EF2F88)](https://instagram.com/bmbxmd)
-[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=X&logoColor=white&color=000000)](https://x.com/bmb_md)
+[![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=Facebook&logoColor=white&color=1877F2)](https://www.facebook.com/Obed123Tech)
+[![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Instagram&logoColor=white&color=EF2F88)](https://instagram.com/Obed.tech)
+[![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=X&logoColor=white&color=000000)](https://x.com/Obedtech)
 [![](https://img.shields.io/badge/Reddit-informational?style=flat&logo=Reddit&logoColor=C70039&color=white)](https://www.reddit.com/user/psychomita)
 [![](https://img.shields.io/badge/Spotify-informational?style=flat&logo=Spotify&logoColor=36AE7C&color=black)](https://open.spotify.com/user/31lvd3f6xwjksgd6x3kqda3li4a4?si=e9ed27d54e6148a2)
 [![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=LeetCode&logoColor=FFB000&color=001524)](https://leetcode.com/psychomita/)
