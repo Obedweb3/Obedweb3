@@ -1,5 +1,5 @@
-# 💫 𝗡𝗢𝗩𝗔-𝗫𝗠𝗗🚀:
-👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 bmb200.com <br>
+# 💫𝙊𝘽𝙀𝘿 𝙏𝙀𝘾𝙃 🚀:
+👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 ᴏʙᴇᴅ ᴛᴇᴄʜ<br>
 
 
 ## 🌐 Socials:
