@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Obed Tech GIF" width="400"/>
+  <img src="https://files.catbox.moe/fetyu7.jpg.gif" alt="Obed Tech GIF" width="400"/>
 </p>
 
 *Click the GIF to watch full video:*  
