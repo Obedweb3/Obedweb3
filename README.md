@@ -10,7 +10,7 @@
 # HUNTER XMD PRO BOT
 <p align="center">
   <video width="400" autoplay loop muted controls>
-    <source src="PASTE_YOUR_VIDEO_LINK_HERE.mp4" type="video/mp4">
+    <source src="https://files.catbox.moe/fetyu7.jpg.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
