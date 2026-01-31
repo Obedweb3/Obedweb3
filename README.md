@@ -4,11 +4,11 @@
 ---
 
 <p align="center">
-  <video width="400" autoplay loop muted controls>
-    <source src="https://files.catbox.moe/fetyu7.jpg.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Obed Tech GIF" width="400"/>
 </p>
+
+*Click the GIF to watch full video:*  
+[Watch Video](https://files.catbox.moe/fetyu7.jpg.mp4)
 
 ---
 
@@ -77,7 +77,7 @@
 
 ## 📫 Contact Me
 📧 Email: [webobed89@gmail.com](mailto:webobed89@gmail.com)  
-🌐 Portfolio / Projects: [https://trending-downloader.vercel.app](https://trending-downloader.vercel.app)
+🌐 Portfolio / Projects: [https://music-lover.obedtech.top]
 
 ---
 
