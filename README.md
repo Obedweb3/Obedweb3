@@ -1,12 +1,6 @@
 # 💫𝙊𝘽𝙀𝘿 𝙏𝙀𝘾𝙃 🚀:
 👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 ᴏʙᴇᴅ ᴛᴇᴄʜ<br>
 
-
-## 🌐 Socials:
-[![github](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/in/bmb200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bmb_xmd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bmb_xmd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bmb_md) 
-
-
-
 # HUNTER XMD PRO BOT
 <p align="center">
   <video width="400" autoplay loop muted controls>
@@ -14,6 +8,12 @@
     Your browser does not support the video tag.
   </video>
 </p>
+
+
+
+
+## 🌐 Socials:
+[![github](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/in/bmb200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bmb_xmd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bmb_xmd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bmb_md) 
 
 
 
